@@ -1,0 +1,1025 @@
+
+Allocating common symbols
+Common symbol       size              file
+
+stcDES0Backup0      0x4               ./system/include/S6E2CCA/dstc.o
+x                   0xdc              ./src/fir_intr.o
+i                   0x2               ./src/fir_intr.o
+stcDES0Backup1      0x4               ./system/include/S6E2CCA/dstc.o
+stcDES              0x38              ./system/include/S6E2CCA/dstc.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/audio.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/audio.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/audio.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/audio.o
+ .bss.audio_IN  0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .bss.audio_OUT
+                0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .bss.dma_tx_buffer_pong
+                0x00000000      0x200 ./system/include/S6E2CCA/audio.o
+ .bss.dma_tx_buffer_ping
+                0x00000000      0x200 ./system/include/S6E2CCA/audio.o
+ .bss.dma_rx_buffer_ping
+                0x00000000      0x200 ./system/include/S6E2CCA/audio.o
+ .bss.dma_rx_buffer_pong
+                0x00000000      0x200 ./system/include/S6E2CCA/audio.o
+ .bss.rx_proc_buffer
+                0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .bss.tx_proc_buffer
+                0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .bss.tx_buffer_empty
+                0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .bss.rx_buffer_full
+                0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .text.init_LED
+                0x00000000       0x38 ./system/include/S6E2CCA/audio.o
+ .data.fb       0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .data.sreg     0x00000000        0x4 ./system/include/S6E2CCA/audio.o
+ .text.prbs     0x00000000       0xe4 ./system/include/S6E2CCA/audio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/delay.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/delay.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/delay.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/delay.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/delay.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/delay.o
+ .debug_macro   0x00000000      0x80e ./system/include/S6E2CCA/delay.o
+ .debug_macro   0x00000000       0x2d ./system/include/S6E2CCA/delay.o
+ .debug_macro   0x00000000      0x34e ./system/include/S6E2CCA/delay.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/dstc.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/dstc.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/dstc.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/dstc.o
+ .bss.audio_IN  0x00000000        0x4 ./system/include/S6E2CCA/dstc.o
+ .bss.audio_OUT
+                0x00000000        0x4 ./system/include/S6E2CCA/dstc.o
+ .bss.dma_tx_buffer_pong
+                0x00000000      0x200 ./system/include/S6E2CCA/dstc.o
+ .bss.dma_rx_buffer_pong
+                0x00000000      0x200 ./system/include/S6E2CCA/dstc.o
+ .bss.rx_proc_buffer
+                0x00000000        0x4 ./system/include/S6E2CCA/dstc.o
+ .bss.tx_proc_buffer
+                0x00000000        0x4 ./system/include/S6E2CCA/dstc.o
+ .bss.tx_buffer_empty
+                0x00000000        0x4 ./system/include/S6E2CCA/dstc.o
+ .bss.rx_buffer_full
+                0x00000000        0x4 ./system/include/S6E2CCA/dstc.o
+ .text.dstc_src_memory
+                0x00000000       0x3c ./system/include/S6E2CCA/dstc.o
+ .text.dstc_dest_memory
+                0x00000000       0x3c ./system/include/S6E2CCA/dstc.o
+ .text.dstc_transfersize
+                0x00000000       0xa4 ./system/include/S6E2CCA/dstc.o
+ .text.dstc_state
+                0x00000000       0x64 ./system/include/S6E2CCA/dstc.o
+ .text.dstc_reset
+                0x00000000       0x90 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000      0x80e ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x28 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000      0x34e ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000      0x104 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x3b ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x50 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000      0xe66 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000    0x289cf ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x2d ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x10 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x12 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x2e ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x95 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x3a ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x52 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x19 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000      0x16d ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0xac ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x89 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000      0x1da ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0xd6 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x00000000       0x5e ./system/include/S6E2CCA/dstc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/gpio.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/gpio.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/gpio.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/gpio.o
+ .text.gpio_toggle
+                0x00000000       0x74 ./system/include/S6E2CCA/gpio.o
+ .text.gpio_get
+                0x00000000       0x40 ./system/include/S6E2CCA/gpio.o
+ .text.gpio_set_range
+                0x00000000       0x18 ./system/include/S6E2CCA/gpio.o
+ .text.gpio_set_trigger
+                0x00000000       0x18 ./system/include/S6E2CCA/gpio.o
+ .text.gpio_set_callback
+                0x00000000       0x14 ./system/include/S6E2CCA/gpio.o
+ .text.port_isr
+                0x00000000       0x14 ./system/include/S6E2CCA/gpio.o
+ .text.port_isr0
+                0x00000000       0x10 ./system/include/S6E2CCA/gpio.o
+ .text.port_isr1
+                0x00000000       0x10 ./system/include/S6E2CCA/gpio.o
+ .text.port_isr2
+                0x00000000       0x10 ./system/include/S6E2CCA/gpio.o
+ .text.port_isr3
+                0x00000000       0x10 ./system/include/S6E2CCA/gpio.o
+ .text.port_isr4
+                0x00000000       0x10 ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000      0x80e ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000       0x28 ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000      0x34e ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000      0x104 ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000       0x3b ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000       0x50 ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000      0xe66 ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000    0x289cf ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x00000000       0x2d ./system/include/S6E2CCA/gpio.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2c.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/i2c.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/i2c.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/i2c.o
+ .text.i2c_disable
+                0x00000000       0x18 ./system/include/S6E2CCA/i2c.o
+ .text.i2c_rx   0x00000000       0x1c ./system/include/S6E2CCA/i2c.o
+ .text.i2c_ack  0x00000000       0x18 ./system/include/S6E2CCA/i2c.o
+ .text.i2c_read
+                0x00000000       0x18 ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000      0x80e ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000       0x28 ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000      0x34e ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000      0x104 ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000       0x3b ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000       0x50 ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000      0xe66 ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000    0x289cf ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x00000000       0x2d ./system/include/S6E2CCA/i2c.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/i2s.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/i2s.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/i2s.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/i2s.o
+ .bss.audio_IN  0x00000000        0x4 ./system/include/S6E2CCA/i2s.o
+ .bss.audio_OUT
+                0x00000000        0x4 ./system/include/S6E2CCA/i2s.o
+ .bss.dma_tx_buffer_pong
+                0x00000000      0x200 ./system/include/S6E2CCA/i2s.o
+ .bss.dma_tx_buffer_ping
+                0x00000000      0x200 ./system/include/S6E2CCA/i2s.o
+ .bss.dma_rx_buffer_ping
+                0x00000000      0x200 ./system/include/S6E2CCA/i2s.o
+ .bss.dma_rx_buffer_pong
+                0x00000000      0x200 ./system/include/S6E2CCA/i2s.o
+ .bss.rx_proc_buffer
+                0x00000000        0x4 ./system/include/S6E2CCA/i2s.o
+ .bss.tx_proc_buffer
+                0x00000000        0x4 ./system/include/S6E2CCA/i2s.o
+ .bss.tx_buffer_empty
+                0x00000000        0x4 ./system/include/S6E2CCA/i2s.o
+ .bss.rx_buffer_full
+                0x00000000        0x4 ./system/include/S6E2CCA/i2s.o
+ .text.i2s_stop
+                0x00000000       0x1c ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000      0x80e ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x28 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000      0x34e ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000      0x104 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x3b ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x50 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000      0xe66 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000    0x289cf ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x2d ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x10 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x12 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x2e ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x95 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x3a ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x52 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x19 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000      0x16d ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0xac ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x89 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000      0x1da ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0xd6 ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x00000000       0x5e ./system/include/S6E2CCA/i2s.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .ARM.extab.FM4.reset
+                0x00000000        0x0 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./system/include/S6E2CCA/system_s6e2cc.o
+ .text          0x00000000        0x0 ./system/include/S6E2CCA/system_s6e2cc.o
+ .data          0x00000000        0x0 ./system/include/S6E2CCA/system_s6e2cc.o
+ .bss           0x00000000        0x0 ./system/include/S6E2CCA/system_s6e2cc.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./system/include/S6E2CCA/system_s6e2cc.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x190 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000      0x80e ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000       0x28 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000      0x34e ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000      0x104 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000       0x1c ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000       0x3b ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000       0x50 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000      0xe66 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x00000000    0x289cf ./system/include/S6E2CCA/system_s6e2cc.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .group         0x00000000        0x8 ./src/fir_intr.o
+ .text          0x00000000        0x0 ./src/fir_intr.o
+ .data          0x00000000        0x0 ./src/fir_intr.o
+ .bss           0x00000000        0x0 ./src/fir_intr.o
+ .bss.dma_tx_buffer_pong
+                0x00000000      0x200 ./src/fir_intr.o
+ .bss.dma_tx_buffer_ping
+                0x00000000      0x200 ./src/fir_intr.o
+ .bss.dma_rx_buffer_ping
+                0x00000000      0x200 ./src/fir_intr.o
+ .bss.dma_rx_buffer_pong
+                0x00000000      0x200 ./src/fir_intr.o
+ .bss.rx_proc_buffer
+                0x00000000        0x4 ./src/fir_intr.o
+ .bss.tx_proc_buffer
+                0x00000000        0x4 ./src/fir_intr.o
+ .bss.tx_buffer_empty
+                0x00000000        0x4 ./src/fir_intr.o
+ .bss.rx_buffer_full
+                0x00000000        0x4 ./src/fir_intr.o
+ .debug_macro   0x00000000      0x80e ./src/fir_intr.o
+ .debug_macro   0x00000000       0x10 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x28 ./src/fir_intr.o
+ .debug_macro   0x00000000      0x34e ./src/fir_intr.o
+ .debug_macro   0x00000000      0x104 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x1c ./src/fir_intr.o
+ .debug_macro   0x00000000       0x3b ./src/fir_intr.o
+ .debug_macro   0x00000000       0x50 ./src/fir_intr.o
+ .debug_macro   0x00000000      0xe66 ./src/fir_intr.o
+ .debug_macro   0x00000000    0x289cf ./src/fir_intr.o
+ .debug_macro   0x00000000       0x12 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x2e ./src/fir_intr.o
+ .debug_macro   0x00000000       0x95 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x3a ./src/fir_intr.o
+ .debug_macro   0x00000000       0x52 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x19 ./src/fir_intr.o
+ .debug_macro   0x00000000      0x16d ./src/fir_intr.o
+ .debug_macro   0x00000000       0xac ./src/fir_intr.o
+ .debug_macro   0x00000000       0x89 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x1c ./src/fir_intr.o
+ .debug_macro   0x00000000      0x1da ./src/fir_intr.o
+ .debug_macro   0x00000000       0xd6 ./src/fir_intr.o
+ .debug_macro   0x00000000       0x2d ./src/fir_intr.o
+ .debug_macro   0x00000000       0x1c ./src/fir_intr.o
+ .debug_macro   0x00000000       0x5e ./src/fir_intr.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00200000         xr
+ram              0x1fff0000         0x00030000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/yagarto-20121222/bin/../lib/gcc/arm-none-eabi/4.7.2/../../../../arm-none-eabi/lib/thumb/v7m\libm.a
+LOAD ./system/include/S6E2CCA/audio.o
+LOAD ./system/include/S6E2CCA/delay.o
+LOAD ./system/include/S6E2CCA/dstc.o
+LOAD ./system/include/S6E2CCA/gpio.o
+LOAD ./system/include/S6E2CCA/i2c.o
+LOAD ./system/include/S6E2CCA/i2s.o
+LOAD ./system/include/S6E2CCA/startup_s6e2cc.o
+LOAD ./system/include/S6E2CCA/system_s6e2cc.o
+LOAD ./src/fir_intr.o
+                0x20020000                PROVIDE (__FM4_stack, (__FM4_region_start_ram + __FM4_region_size_ram))
+                0x4000fac0                PROVIDE (__FM4_stack_size, ((__FM4_region_start_ram + __FM4_region_size_ram) - _end))
+                0x1fff0540                PROVIDE (__FM4_heap_start, _end)
+                0x20020000                PROVIDE (__FM4_heap_end, (__FM4_region_start_ram + __FM4_region_size_ram))
+
+.text           0x00000000     0x1bd8
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                __FM4_region_start_rom = .
+ *(.FM4.region-head.rom)
+                0x00000000                __FM4_interrupt_vector = __FM4_interrupt_vector_cortex_m
+ *(.FM4.interrupt_vector)
+ .FM4.interrupt_vector
+                0x00000000      0x240 ./system/include/S6E2CCA/startup_s6e2cc.o
+                0x00000000                __FM4_interrupt_vector_cortex_m
+                0x00000001                ASSERT ((. != __FM4_interrupt_vector_cortex_m), No interrupt vector)
+ *(.rom)
+ *(.rom.b)
+                0x00000240                __FM4_reset = __FM4_reset_cortex_m
+ *(.FM4.reset)
+ .FM4.reset     0x00000240       0x40 ./system/include/S6E2CCA/startup_s6e2cc.o
+                0x00000240                __FM4_reset_cortex_m
+                0x00000001                ASSERT ((. != __FM4_reset), No reset code)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text.NVIC_DisableIRQ
+                0x00000280       0x3c ./system/include/S6E2CCA/audio.o
+ .text.Codec_WriteRegister
+                0x000002bc       0x40 ./system/include/S6E2CCA/audio.o
+                0x000002bc                Codec_WriteRegister
+ .text.audio_init
+                0x000002fc      0x138 ./system/include/S6E2CCA/audio.o
+                0x000002fc                audio_init
+ .text.delay_ms
+                0x00000434       0x54 ./system/include/S6E2CCA/delay.o
+                0x00000434                delay_ms
+ .text.delay_us
+                0x00000488       0x50 ./system/include/S6E2CCA/delay.o
+                0x00000488                delay_us
+ .text.delay_cycles
+                0x000004d8       0x20 ./system/include/S6E2CCA/delay.o
+                0x000004d8                delay_cycles
+ .text.NVIC_EnableIRQ
+                0x000004f8       0x38 ./system/include/S6E2CCA/dstc.o
+ .text.NVIC_ClearPendingIRQ
+                0x00000530       0x3c ./system/include/S6E2CCA/dstc.o
+ .text.NVIC_SetPriority
+                0x0000056c       0x5c ./system/include/S6E2CCA/dstc.o
+ .text.DSTCPchkCalc
+                0x000005c8       0x74 ./system/include/S6E2CCA/dstc.o
+                0x000005c8                DSTCPchkCalc
+ .text.dstc_init
+                0x0000063c      0x414 ./system/include/S6E2CCA/dstc.o
+                0x0000063c                dstc_init
+ .text.dstc_set_callback
+                0x00000a50       0x38 ./system/include/S6E2CCA/dstc.o
+                0x00000a50                dstc_set_callback
+ .text.DSTC_COMP_IRQHandler
+                0x00000a88       0x20 ./system/include/S6E2CCA/dstc.o
+                0x00000a88                DSTC_COMP_IRQHandler
+ .text.gpio_set_mode
+                0x00000aa8      0x328 ./system/include/S6E2CCA/gpio.o
+                0x00000aa8                gpio_set_mode
+ .text.gpio_set
+                0x00000dd0       0x4c ./system/include/S6E2CCA/gpio.o
+                0x00000dd0                gpio_set
+ .text.i2c_init
+                0x00000e1c       0xb8 ./system/include/S6E2CCA/i2c.o
+                0x00000e1c                i2c_init
+ .text.i2c_enable
+                0x00000ed4       0x18 ./system/include/S6E2CCA/i2c.o
+                0x00000ed4                i2c_enable
+ .text.i2c_start
+                0x00000eec       0x28 ./system/include/S6E2CCA/i2c.o
+                0x00000eec                i2c_start
+ .text.i2c_stop
+                0x00000f14       0x1c ./system/include/S6E2CCA/i2c.o
+                0x00000f14                i2c_stop
+ .text.i2c_tx   0x00000f30       0x24 ./system/include/S6E2CCA/i2c.o
+                0x00000f30                i2c_tx
+ .text.i2c_write
+                0x00000f54       0xf0 ./system/include/S6E2CCA/i2c.o
+                0x00000f54                i2c_write
+ .text.NVIC_EnableIRQ
+                0x00001044       0x38 ./system/include/S6E2CCA/i2s.o
+ .text.NVIC_ClearPendingIRQ
+                0x0000107c       0x3c ./system/include/S6E2CCA/i2s.o
+ .text.NVIC_SetPriority
+                0x000010b8       0x5c ./system/include/S6E2CCA/i2s.o
+ .text.i2s_init
+                0x00001114      0x400 ./system/include/S6E2CCA/i2s.o
+                0x00001114                i2s_init
+ .text.i2s_rx_enable
+                0x00001514       0x2c ./system/include/S6E2CCA/i2s.o
+                0x00001514                i2s_rx_enable
+ .text.i2s_tx_enable
+                0x00001540       0x2c ./system/include/S6E2CCA/i2s.o
+                0x00001540                i2s_tx_enable
+ .text.i2s_rx_threshold
+                0x0000156c       0x34 ./system/include/S6E2CCA/i2s.o
+                0x0000156c                i2s_rx_threshold
+ .text.i2s_tx_threshold
+                0x000015a0       0x34 ./system/include/S6E2CCA/i2s.o
+                0x000015a0                i2s_tx_threshold
+ .text.i2s_rx_dma_enable
+                0x000015d4       0x28 ./system/include/S6E2CCA/i2s.o
+                0x000015d4                i2s_rx_dma_enable
+ .text.i2s_tx_dma_enable
+                0x000015fc       0x28 ./system/include/S6E2CCA/i2s.o
+                0x000015fc                i2s_tx_dma_enable
+ .text.i2s_start
+                0x00001624       0x1c ./system/include/S6E2CCA/i2s.o
+                0x00001624                i2s_start
+ .text.i2s_rx   0x00001640       0x18 ./system/include/S6E2CCA/i2s.o
+                0x00001640                i2s_rx
+ .text.i2s_tx   0x00001658       0x20 ./system/include/S6E2CCA/i2s.o
+                0x00001658                i2s_tx
+ .text.i2s_set_callback
+                0x00001678       0x38 ./system/include/S6E2CCA/i2s.o
+                0x00001678                i2s_set_callback
+ .text.PRGCRC_I2S_IRQHandler
+                0x000016b0       0x28 ./system/include/S6E2CCA/i2s.o
+                0x000016b0                PRGCRC_I2S_IRQHandler
+ .text          0x000016d8       0x14 ./system/include/S6E2CCA/startup_s6e2cc.o
+                0x000016d8                NMI_Handler
+                0x000016da                HardFault_Handler
+                0x000016dc                MemManage_Handler
+                0x000016de                BusFault_Handler
+                0x000016e0                UsageFault_Handler
+                0x000016e2                SVC_Handler
+                0x000016e4                DebugMon_Handler
+                0x000016e6                PendSV_Handler
+                0x000016e8                SysTick_Handler
+                0x000016ea                ICU1_IRQHandler
+                0x000016ea                MFS4_RX_IRQHandler
+                0x000016ea                DMAC7_IRQHandler
+                0x000016ea                WC_IRQHandler
+                0x000016ea                CAN1_CANFD_IRQHandler
+                0x000016ea                EXTINT11_IRQHandler
+                0x000016ea                DMAC6_IRQHandler
+                0x000016ea                BT0_IRQHandler
+                0x000016ea                BT12_15_IRQHandler
+                0x000016ea                LVD_IRQHandler
+                0x000016ea                FRT0_PEAK_IRQHandler
+                0x000016ea                DMAC4_IRQHandler
+                0x000016ea                USB1_HDMICEC0_IRQHandler
+                0x000016ea                BT6_IRQHandler
+                0x000016ea                MFS6_TX_IRQHandler
+                0x000016ea                EXTBUS_ERR_Handler
+                0x000016ea                DMAC2_IRQHandler
+                0x000016ea                WFG0_DTIF0_IRQHandler
+                0x000016ea                EXTINT13_IRQHandler
+                0x000016ea                MFS8_TX_IRQHandler
+                0x000016ea                ETHER0_IRQHandler
+                0x000016ea                MFS3_RX_IRQHandler
+                0x000016ea                PPG08_10_12_IRQHandler
+                0x000016ea                MFS8_RX_IRQHandler
+                0x000016ea                DT1_2_IRAHandler
+                0x000016ea                ADC0_IRQHandler
+                0x000016ea                MFS9_RX_IRQHandler
+                0x000016ea                USB1_HOST_HDMICEC1_IRQHandler
+                0x000016ea                FRT2_ZERO_IRQHandler
+                0x000016ea                BT2_IRQHandler
+                0x000016ea                FRT1_ZERO_IRQHandler
+                0x000016ea                MFS12_RX_IRQHandler
+                0x000016ea                BT7_IRQHandler
+                0x000016ea                PPG00_02_04_IRQHandler
+                0x000016ea                BT8_IRQHandler
+                0x000016ea                EXINT6_IRQHandler
+                0x000016ea                FRT2_PEAK_IRQHandler
+                0x000016ea                BT9_IRQHandler
+                0x000016ea                IRQ005SEL_IRQHandler
+                0x000016ea                ADC1_IRQHandler
+                0x000016ea                EXTINT12_IRQHandler
+                0x000016ea                MFS6_RX_IRQHandler
+                0x000016ea                MFS11_TX_IRQHandler
+                0x000016ea                EXINT0_IRQHandler
+                0x000016ea                BT10_IRQHandler
+                0x000016ea                FRT1_PEAK_IRQHandler
+                0x000016ea                RTC_IRQHandler
+                0x000016ea                MFS0_RX_IRQHandler
+                0x000016ea                TIM_IRQHandler
+                0x000016ea                QPRC1_IRQHandler
+                0x000016ea                BT3_IRQHandler
+                0x000016ea                MFS11_RX_IRQHandler
+                0x000016ea                OCU1_IRQHandler
+                0x000016ea                Dummy_Handler2
+                0x000016ea                MFS1_RX_IRQHandler
+                0x000016ea                DMAC3_IRQHandler
+                0x000016ea                IRQ004SEL_IRQHandler
+                0x000016ea                DSTC_IRQHandler
+                0x000016ea                BT1_IRQHandler
+                0x000016ea                IRQ007SEL_IRQHandler
+                0x000016ea                EXINT24_25_26_27_IRQHandler
+                0x000016ea                ICU0_IRQHandler
+                0x000016ea                EXINT3_IRQHandler
+                0x000016ea                WFG2_DTIF2_IRQHandler
+                0x000016ea                PPG16_18_20_IRQHandler
+                0x000016ea                WFG1_DTIF1_IRQHandler
+                0x000016ea                EXTINT9_IRQHandler
+                0x000016ea                Default_Handler
+                0x000016ea                EXTINT10_IRQHandler
+                0x000016ea                EXTINT14_IRQHandler
+                0x000016ea                MFS4_TX_IRQHandler
+                0x000016ea                MFS13_RX_IRQHandler
+                0x000016ea                MFS14_RX_IRQHandler
+                0x000016ea                IRQ010SEL_IRQHandler
+                0x000016ea                OCU2_IRQHandler
+                0x000016ea                EXINT7_IRQHandler
+                0x000016ea                USB0_IRQHandler
+                0x000016ea                ICU2_IRQHandler
+                0x000016ea                ADC2_IRQHandler
+                0x000016ea                MFS2_RX_IRQHandler
+                0x000016ea                EXINT2_IRQHandler
+                0x000016ea                IRQ009SEL_IRQHandler
+                0x000016ea                MFS14_TX_IRQHandler
+                0x000016ea                MFS7_TX_IRQHandler
+                0x000016ea                BT5_IRQHandler
+                0x000016ea                QPRC3_IRQHandler
+                0x000016ea                MFS13_TX_IRQHandler
+                0x000016ea                IRQ003SEL_IRQHandler
+                0x000016ea                MFS5_TX_IRQHandler
+                0x000016ea                EXINT5_IRQHandler
+                0x000016ea                FLASHIF_IRQHandler
+                0x000016ea                DMAC0_IRQHandler
+                0x000016ea                QPRC0_IRQHandler
+                0x000016ea                MFS3_TX_IRQHandler
+                0x000016ea                EXTINT15_IRQHandler
+                0x000016ea                EXINT4_IRQHandler
+                0x000016ea                CSV_IRQHandler
+                0x000016ea                MFS10_RX_IRQHandler
+                0x000016ea                MFS1_TX_IRQHandler
+                0x000016ea                DMAC1_IRQHandler
+                0x000016ea                CAN0_IRQHandler
+                0x000016ea                MFS10_TX_IRQHandler
+                0x000016ea                IRQ008SEL_IRQHandler
+                0x000016ea                IRQ006SEL_IRQHandler
+                0x000016ea                MFS0_TX_IRQHandler
+                0x000016ea                EXINT1_IRQHandler
+                0x000016ea                HSSPI_IRQHandler
+                0x000016ea                QPRC2_IRQHandler
+                0x000016ea                FRT0_ZERO_IRQHandler
+                0x000016ea                MFS9_TX_IRQHandler
+                0x000016ea                OCU0_IRQHandler
+                0x000016ea                EXTINT8_IRQHandler
+                0x000016ea                MFS7_RX_IRQHandler
+                0x000016ea                SD_IRQHandler
+                0x000016ea                BT4_IRQHandler
+                0x000016ea                DMAC5_IRQHandler
+                0x000016ea                BT11_IRQHandler
+                0x000016ea                MFS15_TX_IRQHandler
+                0x000016ea                SWDT_IRQHandler
+                0x000016ea                MFS12_TX_IRQHandler
+                0x000016ea                USB0_HOST_IRQHandler
+                0x000016ea                MFS15_RX_IRQHandler
+                0x000016ea                EXINT28_29_30_31_IRQHandler
+                0x000016ea                EXINT20_21_22_23_IRQHandler
+                0x000016ea                EXINT16_17_18_19_IRQHandler
+                0x000016ea                MFS2_TX_IRQHandler
+                0x000016ea                MFS5_RX_IRQHandler
+ .text.SystemInit
+                0x000016ec      0x1e4 ./system/include/S6E2CCA/system_s6e2cc.o
+                0x000016ec                SystemInit
+ .text.I2S_HANDLER
+                0x000018d0      0x1ec ./src/fir_intr.o
+                0x000018d0                I2S_HANDLER
+ .text.main     0x00001abc       0x2c ./src/fir_intr.o
+                0x00001abc                main
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.h      0x00001ae8       0xdc ./src/fir_intr.o
+                0x00001ae8                h
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+                0x00001bc4                . = ALIGN (0x4)
+                0x00001bc4                __FM4_regions = .
+                0x00001bc4        0x4 LONG 0x0
+                0x00001bc8        0x4 LONG 0x1be0 __FM4_region_init_ram
+                0x00001bcc        0x4 LONG 0x1fff0000 __FM4_region_start_ram
+                0x00001bd0        0x4 LONG 0x0 __FM4_region_init_size_ram
+                0x00001bd4        0x4 LONG 0x540 __FM4_region_zero_size_ram
+                0x00001bd8                __exidx_start = .
+
+.v4_bx          0x00001bd8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00001bd8        0x0
+ .iplt          0x00000000        0x0 ./system/include/S6E2CCA/audio.o
+
+.ARM.exidx      0x00001bd8        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.FM4.reset
+                0x00001bd8        0x8 ./system/include/S6E2CCA/startup_s6e2cc.o
+                0x00001be0                __exidx_end = .
+
+.rel.dyn        0x00001be0        0x0
+ .rel.iplt      0x00000000        0x0 ./system/include/S6E2CCA/audio.o
+
+.text.align     0x00001be0        0x0
+                0x00001be0                . = ALIGN (0x8)
+                0x00001be0                _etext = .
+                0x00200000                __FM4_region_size_rom = 0x200000
+                0x00000001                __FM4_region_num = 0x1
+
+.data           0x1fff0000        0x0 load address 0x00001be0
+                0x1fff0000                _sdata = .
+                0x1fff0000                __FM4_region_start_ram = .
+ *(.FM4.region-head.ram)
+ *(.jcr)
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ *(.ram)
+                0x1fff0000                . = ALIGN (0x8)
+                0x1fff0000                _edata = .
+                0x00000000                data_size = (_edata - _sdata)
+
+.igot.plt       0x1fff0000        0x0 load address 0x00001be0
+ .igot.plt      0x00000000        0x0 ./system/include/S6E2CCA/audio.o
+
+.bss            0x1fff0000      0x540 load address 0x00001be0
+                0x1fff0000                _sbss = .
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss.dma_tx_buffer_ping
+                0x1fff0000      0x200 ./system/include/S6E2CCA/dstc.o
+ .bss.dma_rx_buffer_ping
+                0x1fff0200      0x200 ./system/include/S6E2CCA/dstc.o
+ .bss.dma_callback
+                0x1fff0400        0x4 ./system/include/S6E2CCA/dstc.o
+ .bss.i2s_callback
+                0x1fff0404        0x4 ./system/include/S6E2CCA/i2s.o
+ .bss.u8IoRegisterRead.20721
+                0x1fff0408        0x1 ./system/include/S6E2CCA/system_s6e2cc.o
+ *fill*         0x1fff0409        0x3 
+ .bss.audio_IN  0x1fff040c        0x4 ./src/fir_intr.o
+ .bss.audio_OUT
+                0x1fff0410        0x4 ./src/fir_intr.o
+ .bss.audio_chR
+                0x1fff0414        0x2 ./src/fir_intr.o
+                0x1fff0414                audio_chR
+ .bss.audio_chL
+                0x1fff0416        0x2 ./src/fir_intr.o
+                0x1fff0416                audio_chL
+ .bss.k         0x1fff0418        0x2 ./src/fir_intr.o
+                0x1fff0418                k
+ *(COMMON)
+ *fill*         0x1fff041a        0x2 
+ COMMON         0x1fff041c       0x40 ./system/include/S6E2CCA/dstc.o
+                0x1fff041c                stcDES0Backup0
+                0x1fff0420                stcDES0Backup1
+                0x1fff0424                stcDES
+ COMMON         0x1fff045c       0xde ./src/fir_intr.o
+                0x1fff045c                x
+                0x1fff0538                i
+ *(.ram.b)
+                0x1fff0540                . = ALIGN (0x8)
+ *fill*         0x1fff053a        0x6 
+                0x1fff0540                _ebss = .
+                0x1fff0540                _end = .
+                0x1fff0540                __end = .
+                0x00000540                bss_size = (_ebss - _sbss)
+                0x1fff0540                PROVIDE (end, _ebss)
+                0x1fff0540                PROVIDE (_end, _ebss)
+
+.heap           0x1fff0540    0x20000 load address 0x00001be0
+ *(.heap)
+ .heap          0x1fff0540    0x20000 ./system/include/S6E2CCA/startup_s6e2cc.o
+                0x1fff0540                __FM4_heap_start
+                0x20010540                __FM4_heap_end
+
+.stack          0x2001e000     0x2000
+ *(.stack)
+ .stack         0x2001e000     0x2000 ./system/include/S6E2CCA/startup_s6e2cc.o
+                0x2001e000                __FM4_stack_mem
+                0x00001be0                __FM4_region_init_ram = LOADADDR (.data)
+                0x00000000                __FM4_region_init_size_ram = (_edata - __FM4_region_start_ram)
+                0x00000540                __FM4_region_zero_size_ram = (_end - _edata)
+                0x00030000                __FM4_region_size_ram = 0x30000
+                0x00000001                __FM4_region_num = 0x1
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 ./system/include/S6E2CCA/audio.o
+ .debug_aranges
+                0x00000040       0x30 ./system/include/S6E2CCA/delay.o
+ .debug_aranges
+                0x00000070       0x78 ./system/include/S6E2CCA/dstc.o
+ .debug_aranges
+                0x000000e8       0x80 ./system/include/S6E2CCA/gpio.o
+ .debug_aranges
+                0x00000168       0x68 ./system/include/S6E2CCA/i2c.o
+ .debug_aranges
+                0x000001d0       0x98 ./system/include/S6E2CCA/i2s.o
+ .debug_aranges
+                0x00000268       0x28 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .debug_aranges
+                0x00000290       0x28 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_aranges
+                0x000002b8       0x28 ./src/fir_intr.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x21bf8
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x120e ./system/include/S6E2CCA/audio.o
+ .debug_info    0x0000120e      0x121 ./system/include/S6E2CCA/delay.o
+ .debug_info    0x0000132f     0x2904 ./system/include/S6E2CCA/dstc.o
+ .debug_info    0x00003c33      0xc8e ./system/include/S6E2CCA/gpio.o
+ .debug_info    0x000048c1     0xc743 ./system/include/S6E2CCA/i2c.o
+ .debug_info    0x00011004     0xb46a ./system/include/S6E2CCA/i2s.o
+ .debug_info    0x0001c46e       0x92 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .debug_info    0x0001c500     0x4b2c ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_info    0x0002102c      0xbcc ./src/fir_intr.o
+
+.debug_abbrev   0x00000000      0xc5f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1fc ./system/include/S6E2CCA/audio.o
+ .debug_abbrev  0x000001fc       0x8e ./system/include/S6E2CCA/delay.o
+ .debug_abbrev  0x0000028a      0x26c ./system/include/S6E2CCA/dstc.o
+ .debug_abbrev  0x000004f6      0x114 ./system/include/S6E2CCA/gpio.o
+ .debug_abbrev  0x0000060a      0x1b1 ./system/include/S6E2CCA/i2c.o
+ .debug_abbrev  0x000007bb      0x234 ./system/include/S6E2CCA/i2s.o
+ .debug_abbrev  0x000009ef       0x12 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .debug_abbrev  0x00000a01      0x151 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_abbrev  0x00000b52      0x10d ./src/fir_intr.o
+
+.debug_line     0x00000000     0x18bd
+ *(.debug_line)
+ .debug_line    0x00000000      0x3ab ./system/include/S6E2CCA/audio.o
+ .debug_line    0x000003ab      0x10b ./system/include/S6E2CCA/delay.o
+ .debug_line    0x000004b6      0x486 ./system/include/S6E2CCA/dstc.o
+ .debug_line    0x0000093c      0x296 ./system/include/S6E2CCA/gpio.o
+ .debug_line    0x00000bd2      0x255 ./system/include/S6E2CCA/i2c.o
+ .debug_line    0x00000e27      0x4db ./system/include/S6E2CCA/i2s.o
+ .debug_line    0x00001302       0x94 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .debug_line    0x00001396      0x1cc ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_line    0x00001562      0x35b ./src/fir_intr.o
+
+.debug_frame    0x00000000      0x754
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xa4 ./system/include/S6E2CCA/audio.o
+ .debug_frame   0x000000a4       0x6c ./system/include/S6E2CCA/delay.o
+ .debug_frame   0x00000110      0x168 ./system/include/S6E2CCA/dstc.o
+ .debug_frame   0x00000278      0x17c ./system/include/S6E2CCA/gpio.o
+ .debug_frame   0x000003f4      0x118 ./system/include/S6E2CCA/i2c.o
+ .debug_frame   0x0000050c      0x1b8 ./system/include/S6E2CCA/i2s.o
+ .debug_frame   0x000006c4       0x44 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_frame   0x00000708       0x4c ./src/fir_intr.o
+
+.debug_str      0x00000000   0x166fb8
+ *(.debug_str)
+ .debug_str     0x00000000   0x160385 ./system/include/S6E2CCA/audio.o
+                             0x16056e (size before relaxing)
+ .debug_str     0x00160385       0x5b ./system/include/S6E2CCA/delay.o
+                               0x2db0 (size before relaxing)
+ .debug_str     0x001603e0      0xfbd ./system/include/S6E2CCA/dstc.o
+                             0x1613e9 (size before relaxing)
+ .debug_str     0x0016139d      0x3d5 ./system/include/S6E2CCA/gpio.o
+                             0x15d1b2 (size before relaxing)
+ .debug_str     0x00161772     0x3547 ./system/include/S6E2CCA/i2c.o
+                             0x160397 (size before relaxing)
+ .debug_str     0x00164cb9       0xff ./system/include/S6E2CCA/i2s.o
+                             0x163477 (size before relaxing)
+ .debug_str     0x00164db8     0x21ab ./system/include/S6E2CCA/system_s6e2cc.o
+                             0x15ef87 (size before relaxing)
+ .debug_str     0x00166f63       0x55 ./src/fir_intr.o
+                             0x15fdb4 (size before relaxing)
+
+.debug_loc      0x00000000      0xc9c
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x10c ./system/include/S6E2CCA/audio.o
+ .debug_loc     0x0000010c       0xa8 ./system/include/S6E2CCA/delay.o
+ .debug_loc     0x000001b4      0x288 ./system/include/S6E2CCA/dstc.o
+ .debug_loc     0x0000043c      0x29c ./system/include/S6E2CCA/gpio.o
+ .debug_loc     0x000006d8      0x1dc ./system/include/S6E2CCA/i2c.o
+ .debug_loc     0x000008b4      0x320 ./system/include/S6E2CCA/i2s.o
+ .debug_loc     0x00000bd4       0x64 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_loc     0x00000c38       0x64 ./src/fir_intr.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x39 ./system/include/S6E2CCA/audio.o
+ .ARM.attributes
+                0x00000039       0x39 ./system/include/S6E2CCA/delay.o
+ .ARM.attributes
+                0x00000072       0x39 ./system/include/S6E2CCA/dstc.o
+ .ARM.attributes
+                0x000000ab       0x39 ./system/include/S6E2CCA/gpio.o
+ .ARM.attributes
+                0x000000e4       0x39 ./system/include/S6E2CCA/i2c.o
+ .ARM.attributes
+                0x0000011d       0x39 ./system/include/S6E2CCA/i2s.o
+ .ARM.attributes
+                0x00000156       0x25 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .ARM.attributes
+                0x0000017b       0x39 ./system/include/S6E2CCA/system_s6e2cc.o
+ .ARM.attributes
+                0x000001b4       0x39 ./src/fir_intr.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(Test_Spansion_FM2_S6E2CCA_EN_loop_intr.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0x258
+ .debug_ranges  0x00000000       0x30 ./system/include/S6E2CCA/audio.o
+ .debug_ranges  0x00000030       0x20 ./system/include/S6E2CCA/delay.o
+ .debug_ranges  0x00000050       0x68 ./system/include/S6E2CCA/dstc.o
+ .debug_ranges  0x000000b8       0x70 ./system/include/S6E2CCA/gpio.o
+ .debug_ranges  0x00000128       0x58 ./system/include/S6E2CCA/i2c.o
+ .debug_ranges  0x00000180       0x88 ./system/include/S6E2CCA/i2s.o
+ .debug_ranges  0x00000208       0x20 ./system/include/S6E2CCA/startup_s6e2cc.o
+ .debug_ranges  0x00000228       0x18 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_ranges  0x00000240       0x18 ./src/fir_intr.o
+
+.debug_macro    0x00000000    0x2b64d
+ .debug_macro   0x00000000      0x1cc ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x000001cc      0x80e ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x000009da       0x28 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00000a02      0x34e ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00000d50      0x104 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00000e54       0x1c ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00000e70       0x3b ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00000eab       0x50 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00000efb      0xe66 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x00001d61    0x289cf ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a730       0x2d ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a75d       0x10 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a76d       0x12 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a77f       0x2e ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a7ad       0x95 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a842       0x3a ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a87c       0x52 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a8ce       0x19 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002a8e7      0x16d ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002aa54       0xac ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002ab00       0x89 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002ab89       0x1c ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002aba5      0x1da ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002ad7f       0xd6 ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002ae55       0x1c ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002ae71       0x5e ./system/include/S6E2CCA/audio.o
+ .debug_macro   0x0002aecf       0x37 ./system/include/S6E2CCA/delay.o
+ .debug_macro   0x0002af06      0x1c2 ./system/include/S6E2CCA/dstc.o
+ .debug_macro   0x0002b0c8       0xc4 ./system/include/S6E2CCA/gpio.o
+ .debug_macro   0x0002b18c       0xb6 ./system/include/S6E2CCA/i2c.o
+ .debug_macro   0x0002b242      0x1be ./system/include/S6E2CCA/i2s.o
+ .debug_macro   0x0002b400       0x91 ./system/include/S6E2CCA/system_s6e2cc.o
+ .debug_macro   0x0002b491      0x1bc ./src/fir_intr.o
+
+.comment        0x00000000       0x11
+ .comment       0x00000000       0x11 ./system/include/S6E2CCA/audio.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 ./system/include/S6E2CCA/delay.o
+ .comment       0x00000000       0x12 ./system/include/S6E2CCA/dstc.o
+ .comment       0x00000000       0x12 ./system/include/S6E2CCA/gpio.o
+ .comment       0x00000000       0x12 ./system/include/S6E2CCA/i2c.o
+ .comment       0x00000000       0x12 ./system/include/S6E2CCA/i2s.o
+ .comment       0x00000000       0x12 ./system/include/S6E2CCA/system_s6e2cc.o
+ .comment       0x00000000       0x12 ./src/fir_intr.o
